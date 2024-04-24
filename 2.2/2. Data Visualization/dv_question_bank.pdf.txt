@@ -1,0 +1,138 @@
+2 MARKS QUESTIONS
+1	What is Data and explain it sources? [2]
+2	What are the 7 steps of Data Visualization? [2]
+3	Define Semiology [2]
+4	Define Spatial Data [2]
+5	What are network maps? [2]
+6	What are Different types of mapping available in Data visualization? [2]
+7	What is Tag cloud? [2]
+8	What are Document Cards? [2]
+9	Define view in Data Visualization? [2]
+10	What are keys, labels and legends? [2]
+11	What is telemetry Data? [2]
+12	What is measure of effectiveness? [2]
+13	What are iso-surfaces? [2]
+14	Define Frequency Histogram. [2]
+15	What are pixelmaps? [2]
+16	What is a scatter matrix? [2]
+17	What is lexical level of text representation? [2]
+18	Define token in textual data visualization [2]
+19	What is a view in Data Visualization? [2]
+20	What is text analysis. [2]
+21	List of Few widely used Data Visualization tools. [2]
+22	What is unstructured Data? [2]
+23	What is dynamic data? [2]
+24	Explain the importance of Taxonomy in Data Visualization [2]
+25	Define Dimension embedding [2]
+26	Define Glyphs [2]
+27	What are the multiple actions that can be performed on a screen space [2]
+28	What is carpora? [2]
+29	What is benchmarking [2]
+30	What is multivariate Data [2]
+31	What are computer graphics? [2]
+32	Define Data Visualization and its advantages. [2]
+33	What is spatial Data [2]
+34	i.	Define Pixel [2]
+        ii.	Define Voxel [2]
+35	What are spatial attributes? [2]
+36	Define dense pixel displays [2]
+37	What is semantic level of textual representation [2]
+38	Explain the significance of co-occurrences in textual data representation [2]
+39	What is degree of accuracy [2]
+40	Define Rank [2]
+
+LON ANSWER QUESTIONS
+
+1       Define Data visualization. Explain the role of Data Visualization in Day to day life. [5]
+2       Explain Data processing in detail with a neat illustration [5]
+3       What is Data and its various? Explain different types of Data with differences. [6]
+4       What is a scatterplot explain its application with an example. [4]
+5       Explain 8 Visual Variables in detail? [6]
+6       Explain the the concept of External cognition? [4]
+7       Detail 5 classes of visualization techniques? [5]
+8       What are different combining techniques for Dynamic Data? [5]
+9	Explain in detail and significance of [4]
+i.	DOTMAPS
+ii.	PIXELMAPS
+iii.	CARTOGRAMS
+iv.	NETWORK MAPS
+10	Define and Differentiate Univariate and Bivariate data with examples/usecases? [6]
+11	Explain  [5]
+i.	Dimensionality sub setting
+ii.	Dimensionality Reduction
+12      Explain Multi-Dimensional scaling [5]
+13      Explain Different levels of text representation [5]
+14      Explain vector space model [5]
+15      Explain any 2 Single document visualization techniques [5]
+16      i. What is Interaction? [5]
+        ii. Explain screen space and Data value space in context of multi variate data.
+17	Explain the steps for Data Visualization [5]
+18	Explain the Problems in Designing Effective Visualizations [5]
+19	Explain user tasks to perform a valid assessment of a visualization technique. [6]
+20	What are Data Characteristics [4]
+21	Explain the Types of aggregation with mathematical functions in detail for a sample Dataset [5]
+22      Explain Neighborhood averaging filtering. [5]
+23	Explain Raster and Vector image formats with differences and need for transformation. [5]
+24      List out the problems with data pre-processing. [5]
+25	Explain Taxonomy of Visualization Goal by keller and keller. [5]
+26      Explain multiple dimensions of Data with examples.
+27	Explain KEM Taxonomy
+28      Explain the process of probing two dimensional data [6]
+29	Explain the process of visualizing area Data.
+30      Explain the process of dimension sub setting in detail with neat figures and example.
+31	Explain in detail about multivariate glyphs. [4]
+32      Explain different ordering strategies.  [6]
+33	What is corpora? [2]
+34      Detail single and multiple document visualization techniques in brief. [8]
+35	Explain vector space model with its applications in various sectors. [6]
+36      Explain [4]
+        i. self-organizing maps
+        ii. Themescapes
+37	Explain any one modern integrated visualization system with its advantages and disadvantages. [5]
+38      Illustrate any two visualization systems based on Analysis type [5]
+39	Explain the process of cluster detection in brief. [5]
+40      Explain the process of outlier detection in detail. [5]
+41	Explain the Types of aggregation with mathematical functions in detail for a sample Dataset [5]
+42      Explain Neighborhood averaging filtering. [5]
+43	Explain Raster and Vector image formats with differences and need for transformation. [5]
+44      List out the problems with data pre-processing. [5]
+45      Explain Taxonomy of Visualization Goal by keller and keller. [5]
+46      Explain multiple dimensions of Data with examples.
+47      Explain KEM Taxonomy
+48      Explain the process of probing two dimensional data [6]
+49	Explain the process of visualizing area Data.
+50      Explain the process of dimension sub setting in detail with neat figures and example.
+51	Explain in detail about multivariate glyphs. [4]
+52      Explain different ordering strategies.  [6]
+53	What is corpora? [2]
+54      Detail single and multiple document visualization techniques in brief. [8]
+55	Explain vector space model with its applications in various sectors. [6]
+56      Explain [4]
+        i. self-organizing maps
+        ii. Themescapes
+57	Explain any one modern integrated visualization system with its advantages and disadvantages. [5]
+58      Illustrate any two visualization systems based on Analysis type [5]
+59	Explain the process of cluster detection in brief. [5]
+60      Explain the process of outlier detection in detail. [5]
+61	Explain the Types of aggregation with mathematical functions in detail for a sample Dataset [5]
+62      Explain Neighborhood averaging filtering. [5]
+63	Explain Raster and Vector image formats with differences and need for transformation. [5]
+64      List out the problems with data pre-processing. [5]
+65	Explain Taxonomy of Visualization Goal by keller and keller. [5]
+66      Explain multiple dimensions of Data with examples.
+67	Explain KEM Taxonomy
+68      Explain the process of probing two dimensional data [6]
+69	Explain the process of visualizing area Data.
+70      Explain the process of dimension sub setting in detail with neat figures and example.
+71	Explain in detail about multivariate glyphs. [4]
+72      Explain different ordering strategies.  [6]
+73	What is corpora? [2]
+74      Detail single and multiple document visualization techniques in brief. [8]
+75	Explain vector space model with its applications in various sectors. [6]
+76      Explain [4]
+        i. self-organizing maps
+        ii. Themescapes
+77	Explain any one modern integrated visualization system with its advantages and disadvantages. [5]
+78      Illustrate any two visualization systems based on Analysis type [5]
+79	Explain the process of cluster detection in brief. [5]
+80      Explain the process of outlier detection in detail. [5]
